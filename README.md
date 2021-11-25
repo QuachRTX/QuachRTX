@@ -1,4 +1,4 @@
-## Opa eu sou o Quach, estou atualmente cursando Ciencia da computação e tenho muito interresse em tecnologias VR !
+## Opa eu sou o Quach, estou atualmente cursando ciencia da computação e tenho muito interresse em tecnologias VR !
 <div align="center">
   <a href="https://github.com/QuachRTX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuachRTX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

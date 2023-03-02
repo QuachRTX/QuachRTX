@@ -7,8 +7,8 @@
 ##
 <div align="left">
   
-  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=QuachRTX&&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuachRTX&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=QuachRTX&&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuachRTX&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   
   ![Snake animation](https://github.com/QuachRTX/QuachRTX/blob/output/github-contribution-grid-snake.svg) 
   
@@ -23,4 +23,6 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   
 </div><br/>
+
+
 

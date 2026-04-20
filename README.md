@@ -1,31 +1,18 @@
-### Olá! Eu sou Alexsander Stahnke 🖐️
-<div>
-   <a href = "mailto:quach.vrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alexsander-stahnke-901151252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-<div align="left">
-
-   
-
-   ![QuachRTX's GitHub stats](https://github-readme-stats.vercel.app/api/?username=QuachRTX&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/)
-   ![QuachRTX's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuachRTX&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/)
-
-  
-  ![Snake animation](https://github.com/QuachRTX/QuachRTX/blob/output/github-contribution-grid-snake.svg) 
-  
-</div>
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  
-</div><br/>
+# 💫 Sobre mim:
+🔭 Atualmente estou trabalhando com<br>Testes A/B, implementações técnicas voltadas a CRO e performance em e-commerce e desenvolvimento de Landing Pages<br><br>👯 Busco colaborar em<br>Projetos de martech, integrações via API, automações e iniciativas de produto com foco em crescimento<br><br>🤝 Busco ajuda com<br>Evoluir tecnicamente em arquitetura de soluções, integrações e aprofundamento no papel de Product Owner<br><br>🌱 Atualmente estou aprendendo<br>Desenvolvimento de testes A/B voltados a CRO e boas práticas de front-end<br><br>💬 Pode me perguntar sobre<br>CRO, testes A/B e automações com Python<br><br>⚡ Curiosidade<br>Além de atuar como ponte entre negócio e tecnologia, também desenvolvo soluções na prática, principalmente em front-end e automações
 
 
+## 🌐 Redes sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsander_sta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsander-stahnke-901151252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quach.vrc@gmail.com) 
 
+# 💻 Ferramentas e tecnologias:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.shion.dev/api?username=QuachRTX&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=QuachRTX&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=QuachRTX&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=QuachRTX&icon=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
